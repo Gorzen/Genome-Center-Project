@@ -1,0 +1,19 @@
+# Genome center project June 2020
+
+## Scope
+- Duration: 1 month, June 2020
+- Workload: 20%-25%, 8h-10h/week
+- Subject: Machine learning to detect and classify variants
+
+## Schedule
+
+## Tasks
+- [ ] Run [IGV](http://software.broadinstitute.org/software/igv/)
+  - [ ] Download bam and vcf file and visualize them ([Genome in a bottle](https://www.nist.gov/programs-projects/genome-bottle) or [NA12878 HG001](ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/)
+  - [ ] Look at IGV network interface, for more efficient visualizations
+  - [ ] Extract data using [Canevas](https://github.com/rick-heig/canevas) with Scala console
+  - [ ] Display number of reads extracted on IGV
+- [ ] Read [gnomAD](https://www.nature.com/articles/s41586-020-2287-8)
+- [ ] Write python notebook with ideas and thoughts process
+- [ ] Make a schedule
+- [ ] Extract data in python and ML
