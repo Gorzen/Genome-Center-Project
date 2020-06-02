@@ -9,7 +9,7 @@
 
 ## Tasks
 - [ ] Run [IGV](http://software.broadinstitute.org/software/igv/)
-  - [ ] Download bam and vcf file and visualize them ([Genome in a bottle](https://www.nist.gov/programs-projects/genome-bottle) or [NA12878 HG001](ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/)
+  - [ ] Download bam and vcf file and visualize them ([Genome in a bottle](https://www.nist.gov/programs-projects/genome-bottle) or [NA12878 HG001](ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/))
   - [ ] Look at IGV network interface, for more efficient visualizations
   - [ ] Extract data using [Canevas](https://github.com/rick-heig/canevas) with Scala console
   - [ ] Display number of reads extracted on IGV
