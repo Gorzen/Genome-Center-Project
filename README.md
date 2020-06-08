@@ -5,11 +5,13 @@
 - Workload: 20%-25%, 8h-10h/week
 - Subject: Machine learning to detect and classify variants
 
-## Schedule
+## Work
+Everything will be contained in the notebook [roadmap.ipynb](roadmap.ipynb).
 
-## Tasks
-- [ ] Run [IGV](http://software.broadinstitute.org/software/igv/)
-  - [ ] Download bam and vcf file and visualize them ([Genome in a bottle](https://www.nist.gov/programs-projects/genome-bottle) or [NA12878 HG001](ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/))
+### General tasks
+The schedule is in the notebook but here is a list of the general tasks to achieve:
+- [x] Run [IGV](http://software.broadinstitute.org/software/igv/)
+  - [x] Download bam and vcf file and visualize them ([Genome in a bottle](https://www.nist.gov/programs-projects/genome-bottle) or [NA12878 HG001](ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/))
   - [ ] Look at IGV network interface, for more efficient visualizations
   - [ ] Extract data using [Canevas](https://github.com/rick-heig/canevas) with Scala console
   - [ ] Display number of reads extracted on IGV
