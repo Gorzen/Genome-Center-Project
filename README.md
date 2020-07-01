@@ -1,5 +1,8 @@
 # Genome center project June 2020
 
+## Goal
+Classify SV deletion breakpoints using machine learning on bedgraph signals extracted from a genomic sequence using [Canevas](https://github.com/rick-heig/canevas)
+
 ## Scope
 - Duration: 1 month, June 2020
 - Workload: 20%-25%, 8h-10h/week
